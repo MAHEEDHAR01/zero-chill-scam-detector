@@ -1,0 +1,6 @@
+# ZERO CHILL 3.0 – Ultimate AI Cybersecurity & Legal Action Platform
+flask>=3.0.0
+flask-cors>=4.0.0
+pillow>=10.0.0
+requests>=2.31.0
+pypdf>=4.0.0
